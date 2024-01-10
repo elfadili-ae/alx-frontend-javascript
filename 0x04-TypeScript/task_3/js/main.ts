@@ -1,5 +1,5 @@
 import { RowID, RowElement } from "./interface";
-/// <reference path="path/to/crud.d.ts" />
+/// <reference path="./crud.d.ts" />
 import * as CRUD from './crud';
 import { insertRow } from "./crud";
 
